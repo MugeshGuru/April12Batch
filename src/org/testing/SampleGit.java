@@ -7,6 +7,7 @@ public class SampleGit {
 		int a = 10;
 		System.out.println(a);
 		
-		
+		double d = 789.89;
+		System.out.println(d);
 	}
 }
