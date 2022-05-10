@@ -9,5 +9,11 @@ public class SampleGit {
 		
 		double d = 789.89;
 		System.out.println(d);
+		
+		long l = 345678989893l;
+		System.out.println(l);
+
+		
+
 	}
 }
